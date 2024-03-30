@@ -13,7 +13,6 @@ p {
 }
 
 .rectangle {
-    width: 900px;
     height: 100px;
     background-color: #fff;
     border-radius: 20px;
